@@ -2,8 +2,9 @@
 
 A terminal theme for ghostty that replicates the style of balatro
 
-https://github.com/mynameisgump/ghostty-balatro-theme/blob/main/videos/Demo.mp4
-[![Watch the video](https://github.com/mynameisgump/ghostty-balatro-theme/blob/main/videos/Thumbnail.png?raw=true)](https://github.com/mynameisgump/ghostty-balatro-theme/raw/refs/heads/main/videos/Demo.mp4)
+
+https://private-user-images.githubusercontent.com/47284813/407983200-3cb58c65-361c-472b-b3c8-825dcd047661.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzgyMDc3MTcsIm5iZiI6MTczODIwNzQxNywicGF0aCI6Ii80NzI4NDgxMy80MDc5ODMyMDAtM2NiNThjNjUtMzYxYy00NzJiLWIzYzgtODI1ZGNkMDQ3NjYxLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTMwVDAzMjMzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk2YzY3MDQ3N2I4ZmQzZjM5YmNhODM1YWU4OWExMzk4NGU5ZmM5MDNkNzlkMTVlOTVmMmU1ZmYzMTIzYTU5ZjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.iCSP00MyobX_EWJmyCqmZ-mk5ByWWOZ5VYnIhJW_b8c
+
 # Setup:
 
 - Add the theme to your themes folder
