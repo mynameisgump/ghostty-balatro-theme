@@ -2,6 +2,8 @@
 
 A terminal theme for ghostty that replicates the style of balatro
 
+https://github.com/mynameisgump/ghostty-balatro-theme/blob/main/videos/Demo.mp4
+[![Watch the video](https://github.com/mynameisgump/ghostty-balatro-theme/blob/main/videos/Thumbnail.png?raw=true)](https://github.com/mynameisgump/ghostty-balatro-theme/raw/refs/heads/main/videos/Demo.mp4)
 # Setup:
 
 - Add the theme to your themes folder
