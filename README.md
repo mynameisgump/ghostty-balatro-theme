@@ -7,14 +7,7 @@ https://github.com/mynameisgump/ghostty-balatro-theme/blob/main/videos/Demo.mp4
 # Setup:
 
 - Add the theme to your themes folder
+  - Ex: .config/ghostty/themes/Balatro
 - Add the shaders folder to the root of your ghostty config folder
+  - Ex: .config/ghostty/shaders 
 - You can also install the m6x11_mono.tff font to use as your font
-  Ex:
-  .config/
-  ghostty/
-  shaders/
-  balatro.glsl
-  tft.glsl
-  wiggl.glsl
-  themes/
-  Balatro
