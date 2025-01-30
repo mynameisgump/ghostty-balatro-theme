@@ -18,4 +18,3 @@ https://github.com/mynameisgump/ghostty-balatro-theme/blob/main/videos/Demo.mp4
   wiggl.glsl
   themes/
   Balatro
-- Font wise you g
